@@ -295,7 +295,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Society"
+        },
+        {
+          "category": "Questions",
+          "tag": "Identity"
+        }
+      ],
       "uuid": "f6a1a257-857d-4cb7-9ee6-a5a654d788a8"
     },
     {
