@@ -239,6 +239,22 @@
       ],
       "tags": [],
       "uuid": "be736aa3-468d-413e-a72b-acccce3eb36c"
+    },
+    {
+      "start_time": 4621,
+      "end_time": 4720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nDo you think that speedrunning, challenge running, or game hacking are connected to your own politics? How so?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8010e4b0-1915-46b7-847a-6119de3d50d0"
     }
   ],
   "set": "Default",
