@@ -143,6 +143,22 @@
       ],
       "tags": [],
       "uuid": "bf51f0f3-6c35-4496-ab32-214d4a1a0d02"
+    },
+    {
+      "start_time": 2821,
+      "end_time": 3180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nWhat are the various roles that exist within these spaces? Specifically in event spaces or the “speedrunning communities” surrounding certain games."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b818b4d-3e24-4d44-b03e-ec13b6bc3120"
     }
   ],
   "set": "Default",
