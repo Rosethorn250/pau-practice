@@ -320,7 +320,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Society"
+        },
+        {
+          "category": "Questions",
+          "tag": "Identity"
+        }
+      ],
       "uuid": "99a6bac5-ff62-4d5d-bb34-0c600bf9dccb"
     },
     {
