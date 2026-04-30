@@ -159,6 +159,22 @@
       ],
       "tags": [],
       "uuid": "4b818b4d-3e24-4d44-b03e-ec13b6bc3120"
+    },
+    {
+      "start_time": 3181,
+      "end_time": 3440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nWhat kinds of considerations do you have for member safety?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "02569b83-9f6a-438b-a7a9-ab6eb8e96166"
     }
   ],
   "set": "Default",
