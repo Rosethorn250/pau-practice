@@ -95,6 +95,22 @@
       ],
       "tags": [],
       "uuid": "4e1a63f6-e556-49e0-904b-0fd25f306a15"
+    },
+    {
+      "start_time": 1861,
+      "end_time": 2280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's the role of failure?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9c4c72ec-f959-4231-b4b7-f6ac90a2e408"
     }
   ],
   "set": "Default",
