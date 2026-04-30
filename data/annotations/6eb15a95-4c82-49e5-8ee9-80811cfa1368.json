@@ -223,6 +223,22 @@
       ],
       "tags": [],
       "uuid": "fa9fef70-2556-4f43-bad8-e86fe2729e71"
+    },
+    {
+      "start_time": 4201,
+      "end_time": 4620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have a hunch as to why these communities are so important to trans and queer folk? Does that factor into the work about making these spaces safe for these folk?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "be736aa3-468d-413e-a72b-acccce3eb36c"
     }
   ],
   "set": "Default",
