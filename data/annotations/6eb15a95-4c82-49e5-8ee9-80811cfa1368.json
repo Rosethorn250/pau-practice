@@ -303,6 +303,22 @@
       ],
       "tags": [],
       "uuid": "6886efe0-24a4-4152-bbe8-ffa060c483b7"
+    },
+    {
+      "start_time": 5161,
+      "end_time": 5305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing thanks and farewells."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d2617f18-7671-4496-9a4b-3dfc192c6111"
     }
   ],
   "set": "Default",
