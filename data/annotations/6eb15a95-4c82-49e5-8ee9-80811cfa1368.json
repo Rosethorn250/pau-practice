@@ -374,7 +374,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Identity"
+        },
+        {
+          "category": "Questions",
+          "tag": "Community"
+        }
+      ],
       "uuid": "be736aa3-468d-413e-a72b-acccce3eb36c"
     },
     {
