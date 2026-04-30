@@ -141,7 +141,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Running"
+        }
+      ],
       "uuid": "4e1a63f6-e556-49e0-904b-0fd25f306a15"
     },
     {
