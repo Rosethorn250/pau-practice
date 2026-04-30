@@ -79,6 +79,22 @@
       ],
       "tags": [],
       "uuid": "cf2356da-81df-41c6-8654-d0f9476e409b"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nTalk to me about the ethos of bingo and bingo races!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e1a63f6-e556-49e0-904b-0fd25f306a15"
     }
   ],
   "set": "Default",
