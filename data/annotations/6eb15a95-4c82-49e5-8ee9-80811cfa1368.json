@@ -175,6 +175,22 @@
       ],
       "tags": [],
       "uuid": "02569b83-9f6a-438b-a7a9-ab6eb8e96166"
+    },
+    {
+      "start_time": 3441,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nWhat do you see as the outcomes of the initiatives that you are a part of? How do you measure the success of these groups?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6a1a257-857d-4cb7-9ee6-a5a654d788a8"
     }
   ],
   "set": "Default",
