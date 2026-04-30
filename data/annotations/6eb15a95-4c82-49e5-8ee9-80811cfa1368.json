@@ -428,7 +428,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Community"
+        },
+        {
+          "category": "Questions",
+          "tag": "Roles"
+        }
+      ],
       "uuid": "72d738fa-cb54-45fc-b3d4-1f52772bd532"
     },
     {
