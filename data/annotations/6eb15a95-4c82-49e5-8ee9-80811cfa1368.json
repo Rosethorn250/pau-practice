@@ -255,6 +255,22 @@
       ],
       "tags": [],
       "uuid": "8010e4b0-1915-46b7-847a-6119de3d50d0"
+    },
+    {
+      "start_time": 4721,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCan you tell us about a time one of your running communities negotiated a boundary?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "72d738fa-cb54-45fc-b3d4-1f52772bd532"
     }
   ],
   "set": "Default",
