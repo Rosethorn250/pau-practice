@@ -63,6 +63,22 @@
       ],
       "tags": [],
       "uuid": "1659c409-3b66-4bc6-961d-3dd5931dce41"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nWhat are the meaningful parts of community membership to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cf2356da-81df-41c6-8654-d0f9476e409b"
     }
   ],
   "set": "Default",
