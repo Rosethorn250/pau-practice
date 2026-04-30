@@ -399,7 +399,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Running"
+        },
+        {
+          "category": "Questions",
+          "tag": "Hacking"
+        },
+        {
+          "category": "Questions",
+          "tag": "Identity"
+        }
+      ],
       "uuid": "8010e4b0-1915-46b7-847a-6119de3d50d0"
     },
     {
