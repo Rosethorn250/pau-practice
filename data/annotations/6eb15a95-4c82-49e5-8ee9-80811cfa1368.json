@@ -87,7 +87,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Running"
+        },
+        {
+          "category": "Questions",
+          "tag": "Identity"
+        }
+      ],
       "uuid": "1659c409-3b66-4bc6-961d-3dd5931dce41"
     },
     {
