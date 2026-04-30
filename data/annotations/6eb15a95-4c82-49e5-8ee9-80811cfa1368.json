@@ -287,6 +287,22 @@
       ],
       "tags": [],
       "uuid": "fdca8592-a116-4443-b492-af2449001ed9"
+    },
+    {
+      "start_time": 5041,
+      "end_time": 5160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell us about one trick/glitch/exploit that is important to you and/or your [specific] community."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6886efe0-24a4-4152-bbe8-ffa060c483b7"
     }
   ],
   "set": "Default",
