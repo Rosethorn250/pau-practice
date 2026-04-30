@@ -47,6 +47,22 @@
       ],
       "tags": [],
       "uuid": "801247dc-43f0-4ba1-9141-30b5d8a38217"
+    },
+    {
+      "start_time": 781,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCould you tell us a little bit about what you see the relationship between challenge running and speedrunning is?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1659c409-3b66-4bc6-961d-3dd5931dce41"
     }
   ],
   "set": "Default",
