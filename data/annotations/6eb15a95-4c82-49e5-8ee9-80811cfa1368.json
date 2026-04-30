@@ -482,7 +482,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Running"
+        },
+        {
+          "category": "Questions",
+          "tag": "Identity"
+        },
+        {
+          "category": "Questions",
+          "tag": "Community"
+        }
+      ],
       "uuid": "6886efe0-24a4-4152-bbe8-ffa060c483b7"
     },
     {
