@@ -271,6 +271,22 @@
       ],
       "tags": [],
       "uuid": "72d738fa-cb54-45fc-b3d4-1f52772bd532"
+    },
+    {
+      "start_time": 4921,
+      "end_time": 5040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAs we wrap up, is there anything else you’d like to share with us?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fdca8592-a116-4443-b492-af2449001ed9"
     }
   ],
   "set": "Default",
