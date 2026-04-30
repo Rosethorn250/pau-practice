@@ -349,7 +349,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Questions",
+          "tag": "Community"
+        },
+        {
+          "category": "Questions",
+          "tag": "Society"
+        }
+      ],
       "uuid": "fa9fef70-2556-4f43-bad8-e86fe2729e71"
     },
     {
