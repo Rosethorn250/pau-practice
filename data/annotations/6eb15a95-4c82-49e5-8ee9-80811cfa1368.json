@@ -207,6 +207,22 @@
       ],
       "tags": [],
       "uuid": "99a6bac5-ff62-4d5d-bb34-0c600bf9dccb"
+    },
+    {
+      "start_time": 3961,
+      "end_time": 4200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nHow is this space different than other spaces within gaming or speedrunning scenes? Could you tell us a little bit about the ways speedrunning scenes have been or continue to be exclusionary?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fa9fef70-2556-4f43-bad8-e86fe2729e71"
     }
   ],
   "set": "Default",
