@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "e44e85d7-56fd-430c-a149-918a665d387b"
+    },
+    {
+      "start_time": 601,
+      "end_time": 780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nWhat makes someone a part of the community?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "801247dc-43f0-4ba1-9141-30b5d8a38217"
     }
   ],
   "set": "Default",
