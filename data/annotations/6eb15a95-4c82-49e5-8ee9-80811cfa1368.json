@@ -127,6 +127,22 @@
       ],
       "tags": [],
       "uuid": "3216a721-6004-432f-b56d-20d65374e4a6"
+    },
+    {
+      "start_time": 2701,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bf51f0f3-6c35-4496-ab32-214d4a1a0d02"
     }
   ],
   "set": "Default",
