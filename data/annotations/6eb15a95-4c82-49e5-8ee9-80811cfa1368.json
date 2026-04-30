@@ -191,6 +191,22 @@
       ],
       "tags": [],
       "uuid": "f6a1a257-857d-4cb7-9ee6-a5a654d788a8"
+    },
+    {
+      "start_time": 3661,
+      "end_time": 3960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nHow have you navigated the language around identity for Fatales? "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "99a6bac5-ff62-4d5d-bb34-0c600bf9dccb"
     }
   ],
   "set": "Default",
